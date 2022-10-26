@@ -6,6 +6,7 @@ public class Start {
 		System.out.println("Buenos días");
 		System.out.println("Holi master");
 		System.out.println("Holi Personas");
+		System.out.println("El gatito hace miau");
 	}
 
 }
